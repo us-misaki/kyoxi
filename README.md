@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **C# and C++**
 
-- 🤝 I’m looking for help with [Datenbank](https://github.com/kyoxi/Datenbank)
-
 - 📫 How to reach me **yamadamisaki1102@gmail.com**
 
 - ⚡ Fun fact **currently learning German :DD**
