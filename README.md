@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **C# and C++**
 
-- 📫 How to reach me **yamadamisaki1102@gmail.com**
+- 📫 How to reach me **malphde@gmail.com**
 
-- ⚡ Fun fact **currently learning German :DD**
+- ⚡ Fun fact **currently learning German :DD, reached A1 certificated**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
